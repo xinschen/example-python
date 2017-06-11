@@ -12,7 +12,7 @@ import redis
 
 class pRedis():
     """docstring for pRedis"""
-    def __init__(self,dnconfig):
+    def __init__(self,dbconfig):
         self.host = dbconfig['host']
         self.port = dbconfig['port']
         self.db = dnconfig['db']
