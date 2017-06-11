@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
-__author__ = 'xinschen@foxmail.com'
 u'''
 对常用数据库操作进行类封装
 '''
