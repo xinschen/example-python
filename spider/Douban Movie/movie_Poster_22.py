@@ -16,7 +16,8 @@ import matplotlib
 
 matplotlib.rcParams['figure.figsize'] = (10.0, 5.0)
 from wordcloud import WordCloud  # 词云包
-
+#定义电影编号
+movieId = '26430107'
 
 # 分析网页函数
 def getNowPlayingMovie_list():
